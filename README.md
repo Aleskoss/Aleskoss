@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Aleš, and I'm currently working on The Odin Project while also looking for a job.
 <!--
 **Aleskoss/Aleskoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
