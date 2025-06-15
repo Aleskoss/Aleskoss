@@ -1,3 +1,4 @@
+Work in progress 🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 ## Hi there 👋
 I'm Aleš, and I'm currently working on The Odin Project while also looking for a job.
 <!--
